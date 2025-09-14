@@ -254,7 +254,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSPrincipalClass = "";
+				INFOPLIST_KEY_NSPrincipalClass = DemoPlugin.DemoPlugin;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.R3Studio.XcodePaI.plugin.DemoPlugin.DemoPlugin;
@@ -275,7 +275,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INFOPLIST_KEY_NSPrincipalClass = "";
+				INFOPLIST_KEY_NSPrincipalClass = DemoPlugin.DemoPlugin;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.R3Studio.XcodePaI.plugin.DemoPlugin.DemoPlugin;

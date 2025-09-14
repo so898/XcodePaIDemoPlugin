@@ -42,7 +42,7 @@ extension DemoPlugin: ChatPluginProtocol {
     }
 }
 
-extension DemoPlugin: CodeSuggestionProtocol {
+extension DemoPlugin: CodeSuggestionPLuginProtocol {
     func generateCodeSuggestionsContext(forFile file: URL, code: String, prefix: String?, suffix: String?) async -> String? {
         // Add more context for code suggestion reqeust
         return nil
